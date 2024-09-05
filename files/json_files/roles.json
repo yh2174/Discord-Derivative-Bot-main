@@ -1,0 +1,27 @@
+{
+    "available_role_ids": [],
+    "transform_table": {
+        "티켓 채널 생성": false,
+        "티켓 메시지 수정": false,
+        "임시 채널 설정": false,
+        "임시 채널 생성": false,
+        "임시 카테고리 설정": false,
+        "입장 채널 설정": false,
+        "퇴장 채널 설정": false,
+        "입장 메시지 설정": false,
+        "퇴장 메시지 설정": false,
+        "입장 역할 설정": false,
+        "로그 채널 설정": false,
+        "레벨 채널 설정": false,
+        "레벨 역할 설정": false,
+        "레벨 확인": false,
+        "역할지급": false,
+        "역할 삭제": false,
+        "역할 지급 채널" : false,
+        "역할 지급 메세지": false,
+        "역할 이모지 제거": false,
+        "역할 지급 이모지": false,
+        "닉네임 변경": false,
+        "메세지스케줄": false
+    }
+}

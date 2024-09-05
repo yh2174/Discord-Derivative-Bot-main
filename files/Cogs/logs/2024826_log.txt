@@ -1,0 +1,38 @@
+[2024-08-26 03:37:59,545] INFO [permissions.py:command_user_role_command:55] >> 명령어 사용 권한 보유 역할 추가 : 테스트봇
+[2024-08-26 03:38:05,418] INFO [permissions.py:command_user_role_command:55] >> 명령어 사용 권한 보유 역할 추가 : 인증
+[2024-08-26 03:38:13,427] INFO [permissions.py:command_user_role_command:66] >> 명령어 사용 권한 보유 역할 제거 : 인증
+[2024-08-26 03:40:20,574] INFO [permissions.py:command_user_role_command:95] >> <티켓 채널 생성> 잠금 해제
+[2024-08-26 03:40:33,520] INFO [permissions.py:command_user_role_command:102] >> <티켓 채널 생성> 잠금
+[2024-08-26 18:32:57,621] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-08-26 18:32:57,623] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-08-26 18:33:50,243] WARNING [temporary_channels.py:delete_channel:98] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : '1264562218884665426' is not in list
+[2024-08-26 18:34:09,827] WARNING [temporary_channels.py:delete_channel:98] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : '1264562218884665426' is not in list
+[2024-08-26 18:34:46,239] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:34:46,240] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-08-26 18:34:53,653] WARNING [temporary_channels.py:delete_channel:99] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : '1264562218884665426' is not in list
+[2024-08-26 18:35:49,779] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:35:49,782] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-08-26 18:36:22,380] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:36:22,382] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-08-26 18:36:25,155] WARNING [temporary_channels.py:delete_channel:99] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : '1264562218884665426' is not in list
+[2024-08-26 18:36:36,674] WARNING [temporary_channels.py:delete_channel:99] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : list.remove(x): x not in list
+[2024-08-26 18:37:41,509] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:37:41,510] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-08-26 18:37:42,929] WARNING [temporary_channels.py:delete_channel:99] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : list.remove(x): x not in list
+[2024-08-26 18:37:47,886] WARNING [temporary_channels.py:delete_channel:99] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : list.remove(x): x not in list
+[2024-08-26 18:37:57,565] WARNING [temporary_channels.py:delete_channel:99] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : list.remove(x): x not in list
+[2024-08-26 18:38:22,750] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:38:22,752] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-08-26 18:38:59,014] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:38:59,015] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-08-26 18:41:58,788] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:41:58,789] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <[일반 문의]> 으로 설정했습니다.
+[2024-08-26 18:42:07,666] WARNING [temporary_channels.py:delete_channel:98] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : list.remove(x): x not in list
+[2024-08-26 18:42:48,812] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:42:48,813] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <[일반 문의]> 으로 설정했습니다.
+[2024-08-26 18:42:51,701] WARNING [temporary_channels.py:delete_channel:99] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : list.remove(x): x not in list
+[2024-08-26 18:42:55,224] WARNING [temporary_channels.py:delete_channel:99] >> 임시 채널 삭제 과정에서 오류가 발생했습니다. : list.remove(x): x not in list
+[2024-08-26 18:44:13,278] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시허브> 으로 설정했습니다.
+[2024-08-26 18:44:13,279] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <[일반 문의]> 으로 설정했습니다.
+[2024-08-26 18:45:49,050] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-26 18:45:49,052] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.

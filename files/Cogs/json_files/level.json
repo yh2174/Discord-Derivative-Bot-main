@@ -1,0 +1,34 @@
+{
+    "channel_id": null,
+    "role": {
+        "5": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "10": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "20": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "30": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "40": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "50": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "51": {
+            "role_id": null,
+            "guild_id": null
+        }
+    },
+    "user_data": {}
+}

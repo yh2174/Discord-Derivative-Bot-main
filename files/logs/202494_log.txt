@@ -1,0 +1,470 @@
+[2024-09-04 08:48:36,264] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 08:48:36,267] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 08:48:36,269] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 08:48:36,271] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 08:48:36,273] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 08:48:36,275] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 08:48:36,277] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 08:48:36,278] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 08:48:36,280] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 08:48:36,282] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 08:48:36,284] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 08:48:36,286] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 08:48:36,288] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 08:48:36,290] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 08:48:36,294] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 08:50:11,836] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from mincho5324: 'NoneType' object has no attribute 'id'
+[2024-09-04 08:50:11,838] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from mincho5324: 'NoneType' object has no attribute 'id'
+[2024-09-04 08:50:11,840] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from mincho5324: 'NoneType' object has no attribute 'id'
+[2024-09-04 08:50:11,842] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from mincho5324: 'NoneType' object has no attribute 'id'
+[2024-09-04 08:50:11,844] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from mincho5324: 'NoneType' object has no attribute 'id'
+[2024-09-04 08:50:11,846] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from mincho5324: 'NoneType' object has no attribute 'id'
+[2024-09-04 08:50:12,429] WARNING [levels.py:give_role:129] >> 멤버를 찾을 수 없습니다. : 404 Not Found (error code: 10013): Unknown User
+[2024-09-04 08:50:37,637] WARNING [levels.py:give_role:129] >> 멤버를 찾을 수 없습니다. : 404 Not Found (error code: 10013): Unknown User
+[2024-09-04 09:02:06,890] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:02:06,893] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:02:06,895] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:02:06,898] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:02:06,900] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:02:06,902] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:02:06,904] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:02:06,906] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:02:06,908] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:02:06,910] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:02:06,912] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:02:06,914] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:02:06,916] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:02:06,918] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:02:06,921] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:08:57,047] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:08:57,050] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:08:57,052] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:08:57,054] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:08:57,057] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:08:57,059] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:08:57,061] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:08:57,063] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:08:57,065] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:08:57,067] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:08:57,069] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:08:57,071] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:08:57,073] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:08:57,075] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:08:57,079] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:16:00,777] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:16:00,780] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:16:00,782] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:16:00,785] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:16:00,786] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:16:00,789] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:16:00,791] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:16:00,793] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:16:00,795] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:16:00,797] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:16:00,799] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:16:00,801] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:16:00,803] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:16:00,805] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:16:00,809] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:24:18,098] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:24:18,102] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:24:18,104] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:24:18,106] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:24:18,109] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:24:18,111] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:24:18,113] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:24:18,115] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:24:18,117] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:24:18,119] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:24:18,121] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:24:18,124] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:24:18,125] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:24:18,128] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:24:18,132] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:27:22,251] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:27:22,254] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:27:22,257] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:27:22,259] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:27:22,262] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:27:22,263] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:27:22,266] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:27:22,268] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:27:22,270] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:27:22,272] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:27:22,274] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:27:22,276] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:27:22,278] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:27:22,280] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:27:22,284] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:35:05,551] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:35:05,554] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:35:05,556] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:35:05,558] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:35:05,561] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:35:05,563] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:35:05,565] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:35:05,567] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:35:05,569] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:35:05,571] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:35:05,574] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:35:05,576] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:35:05,578] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:35:05,580] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:35:05,583] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:41:17,571] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:41:17,574] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:41:17,576] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:41:17,578] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:41:17,581] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:41:17,583] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:41:17,585] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:41:17,587] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:41:17,589] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:41:17,591] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:41:17,593] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:41:17,595] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:41:17,597] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:41:17,599] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:41:17,603] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:46:57,189] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:46:57,193] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:46:57,195] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:46:57,198] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:46:57,200] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:46:57,202] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:46:57,204] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:46:57,206] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:46:57,208] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:46:57,210] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:46:57,212] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:46:57,214] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:46:57,217] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:46:57,219] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:46:57,223] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:50:45,051] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from .jintongje: 'NoneType' object has no attribute 'id'
+[2024-09-04 09:50:45,054] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from .jintongje: 'NoneType' object has no attribute 'id'
+[2024-09-04 09:50:45,056] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from .jintongje: 'NoneType' object has no attribute 'id'
+[2024-09-04 09:50:45,058] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from .jintongje: 'NoneType' object has no attribute 'id'
+[2024-09-04 09:50:45,061] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from .jintongje: 'NoneType' object has no attribute 'id'
+[2024-09-04 09:50:45,063] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from .jintongje: 'NoneType' object has no attribute 'id'
+[2024-09-04 09:54:13,475] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:54:13,479] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:54:13,481] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:54:13,483] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:54:13,486] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:54:13,488] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:54:13,490] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:54:13,492] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:54:13,494] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:54:13,496] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:54:13,498] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:54:13,500] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:54:13,503] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:54:13,505] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:54:13,509] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 09:56:13,807] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:56:13,810] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 09:56:13,812] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 09:56:13,814] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 09:56:13,817] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 09:56:13,819] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 09:56:13,821] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 09:56:13,823] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 09:56:13,825] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 09:56:13,827] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 09:56:13,829] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 09:56:13,831] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 09:56:13,833] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 09:56:13,835] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 09:56:13,838] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 10:05:24,051] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 10:05:24,054] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 10:05:24,056] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 10:05:24,059] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 10:05:24,061] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 10:05:24,063] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 10:05:24,065] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 10:05:24,067] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 10:05:24,069] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 10:05:24,071] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 10:05:24,073] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 10:05:24,075] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 10:05:24,077] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 10:05:24,079] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 10:05:24,085] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 10:07:35,383] WARNING [levels.py:give_role:129] >> 멤버를 찾을 수 없습니다. : 404 Not Found (error code: 10013): Unknown User
+[2024-09-04 10:10:53,878] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from inviting_dove_82055: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:10:53,880] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from inviting_dove_82055: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:10:53,883] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from inviting_dove_82055: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:10:53,885] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from inviting_dove_82055: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:10:53,887] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from inviting_dove_82055: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:10:53,890] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from inviting_dove_82055: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:13:03,942] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from e_doxun_: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:13:03,945] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from e_doxun_: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:13:03,947] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from e_doxun_: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:13:03,949] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from e_doxun_: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:13:03,951] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from e_doxun_: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:13:03,953] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from e_doxun_: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:14:15,063] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from parkjuwon5227: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:14:15,065] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from parkjuwon5227: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:14:15,067] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from parkjuwon5227: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:14:15,070] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from parkjuwon5227: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:14:15,072] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from parkjuwon5227: 'NoneType' object has no attribute 'id'
+[2024-09-04 10:14:15,074] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from parkjuwon5227: 'NoneType' object has no attribute 'id'
+[2024-09-04 11:02:43,062] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:02:43,064] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:02:43,066] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 11:02:43,068] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 11:02:43,070] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 11:02:43,072] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 11:02:43,074] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 11:02:43,076] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 11:02:43,078] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 11:02:43,080] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 11:02:43,082] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 11:02:43,084] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 11:02:43,086] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 11:02:43,087] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 11:02:43,091] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 11:09:28,212] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:09:28,214] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:09:28,216] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 11:09:28,218] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 11:09:28,221] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 11:09:28,222] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 11:09:28,224] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 11:09:28,226] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 11:09:28,228] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 11:09:28,230] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 11:09:28,232] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 11:09:28,234] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 11:09:28,236] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 11:09:28,238] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 11:09:28,242] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 11:19:26,519] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:19:26,522] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:19:26,524] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 11:19:26,526] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 11:19:26,528] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 11:19:26,530] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 11:19:26,532] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 11:19:26,533] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 11:19:26,536] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 11:19:26,537] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 11:19:26,539] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 11:19:26,541] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 11:19:26,543] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 11:19:26,545] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 11:19:26,550] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 11:25:59,129] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:25:59,134] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:25:59,136] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 11:25:59,139] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 11:25:59,141] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 11:25:59,143] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 11:25:59,146] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 11:25:59,148] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 11:25:59,150] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 11:25:59,152] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 11:25:59,154] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 11:25:59,157] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 11:25:59,159] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 11:25:59,161] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 11:25:59,165] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 11:28:39,805] WARNING [temporary_channels.py:on_ready:47] >> /임시 채널 설정 또는 /임시 채널 생성 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:28:39,808] WARNING [temporary_channels.py:on_ready:59] >> /임시 카테고리 설정 명령어를 통해 임시 채널을 설정해 주세요.
+[2024-09-04 11:28:39,810] WARNING [entry_exit_channels.py:on_ready:72] >> /입장 채널 설정 명령어를 통해 입장 채널을 설정해 주세요.
+[2024-09-04 11:28:39,813] WARNING [entry_exit_channels.py:on_ready:84] >> /퇴장 채널 설정 명령어를 통해 퇴장 채널을 설정해 주세요.
+[2024-09-04 11:28:39,815] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <입퇴장> 로그 채널을 설정해 주세요.
+[2024-09-04 11:28:39,818] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <전체로그> 로그 채널을 설정해 주세요.
+[2024-09-04 11:28:39,820] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <메시지> 로그 채널을 설정해 주세요.
+[2024-09-04 11:28:39,822] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <음성방> 로그 채널을 설정해 주세요.
+[2024-09-04 11:28:39,824] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <채널> 로그 채널을 설정해 주세요.
+[2024-09-04 11:28:39,826] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <역할> 로그 채널을 설정해 주세요.
+[2024-09-04 11:28:39,828] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <이름변경> 로그 채널을 설정해 주세요.
+[2024-09-04 11:28:39,830] WARNING [log.py:on_ready:56] >> /로그 채널 설정 명령어를 통해 <차단> 로그 채널을 설정해 주세요.
+[2024-09-04 11:28:39,832] WARNING [levels.py:on_ready:82] >> /레벨 채널 설정 명령어를 통해 레벨 채널을 지정해 주세요.
+[2024-09-04 11:28:39,834] WARNING [levels.py:on_ready:90] >> ========================
+다음 역할을 지정해야 합니다.
+/레벨 역할 설정 명령어를 통해 역할을 지정해 주세요.
+1~4 레벨 구간
+5~10 레벨 구간
+11~20 레벨 구간
+21~30 레벨 구간
+31~40 레벨 구간
+41~50 레벨 구간
+51 레벨
+
+[2024-09-04 11:28:39,838] WARNING [roles.py:on_ready:194] >> /역할 지급 채널 명령어를 통해 역할 지급 채널을 설정해 주세요.
+[2024-09-04 14:12:29,880] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from sola._0: 'NoneType' object has no attribute 'id'
+[2024-09-04 14:12:29,882] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from sola._0: 'NoneType' object has no attribute 'id'
+[2024-09-04 14:12:29,884] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from sola._0: 'NoneType' object has no attribute 'id'
+[2024-09-04 14:12:29,885] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from sola._0: 'NoneType' object has no attribute 'id'
+[2024-09-04 14:12:29,887] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from sola._0: 'NoneType' object has no attribute 'id'
+[2024-09-04 14:12:29,888] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from sola._0: 'NoneType' object has no attribute 'id'
+[2024-09-05 01:18:30,463] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from soondae1: 'NoneType' object has no attribute 'id'
+[2024-09-05 01:18:30,465] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from soondae1: 'NoneType' object has no attribute 'id'
+[2024-09-05 01:18:30,466] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from soondae1: 'NoneType' object has no attribute 'id'
+[2024-09-05 01:18:30,468] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from soondae1: 'NoneType' object has no attribute 'id'
+[2024-09-05 01:18:30,470] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from soondae1: 'NoneType' object has no attribute 'id'
+[2024-09-05 01:18:30,471] WARNING [levels.py:give_role:164] >> 역할 제거 실패 : None from soondae1: 'NoneType' object has no attribute 'id'

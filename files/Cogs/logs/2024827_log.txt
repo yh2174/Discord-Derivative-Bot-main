@@ -1,0 +1,51 @@
+[2024-08-27 02:30:37,658] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:30:37,660] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:31:38,394] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:31:38,395] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:31:38,670] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : 404 Not Found (error code: 10003): Unknown Channel
+[2024-08-27 02:32:28,901] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:32:28,903] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:32:29,159] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : 404 Not Found (error code: 10003): Unknown Channel
+[2024-08-27 02:33:03,632] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:33:03,633] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:33:03,885] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : 404 Not Found (error code: 10003): Unknown Channel
+[2024-08-27 02:34:10,683] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:34:10,685] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:34:10,937] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : 404 Not Found (error code: 10003): Unknown Channel
+[2024-08-27 02:34:43,602] INFO [permissions.py:command_user_role_command:94] >> <티켓 메시지 수정> 잠금 해제
+[2024-08-27 02:35:46,023] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:35:46,025] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:35:46,270] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : 404 Not Found (error code: 10003): Unknown Channel
+[2024-08-27 02:37:07,479] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:37:07,480] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:37:07,727] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : 404 Not Found (error code: 10003): Unknown Channel
+[2024-08-27 02:37:39,053] INFO [permissions.py:command_user_role_command:94] >> <티켓 채널 생성> 잠금 해제
+[2024-08-27 02:38:28,014] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:38:28,015] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:38:28,272] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : 404 Not Found (error code: 10003): Unknown Channel
+[2024-08-27 02:39:57,921] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:39:57,922] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:42:33,461] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:42:33,463] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:42:33,463] INFO [tickets.py:on_ready:58] >> 티켓 카테고리 채널을 <tickets> 으로 설정했습니다.
+[2024-08-27 02:42:33,749] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[2024-08-27 02:43:08,837] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:43:08,838] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:43:08,839] INFO [tickets.py:on_ready:58] >> 티켓 카테고리 채널을 <tickets> 으로 설정했습니다.
+[2024-08-27 02:43:09,089] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[2024-08-27 02:51:36,076] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:51:36,078] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:51:36,078] INFO [tickets.py:on_ready:58] >> 티켓 카테고리 채널을 <tickets> 으로 설정했습니다.
+[2024-08-27 02:51:36,326] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[2024-08-27 02:52:28,383] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:52:28,384] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:52:28,385] INFO [tickets.py:on_ready:58] >> 티켓 카테고리 채널을 <tickets> 으로 설정했습니다.
+[2024-08-27 02:52:28,654] WARNING [tickets.py:on_ready:73] >> 티켓 임베드 갱신 경고 : 404 Not Found (error code: 10003): Unknown Channel
+[2024-08-27 02:52:39,662] INFO [tickets.py:tickets_channel_create_command:146] >> 새로운 티켓 채널을 생성했습니다. 대상ID : 371576705690894336, 채널ID : 1277687165937254503
+[2024-08-27 02:53:53,307] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:53:53,308] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:53:53,309] INFO [tickets.py:on_ready:58] >> 티켓 카테고리 채널을 <tickets> 으로 설정했습니다.
+[2024-08-27 02:57:19,107] INFO [temporary_channels.py:on_ready:43] >> 임시 채널을 <임시채널> 으로 설정했습니다.
+[2024-08-27 02:57:19,108] INFO [temporary_channels.py:on_ready:55] >> 임시 카테고리를 <45번> 으로 설정했습니다.
+[2024-08-27 02:57:19,109] INFO [tickets.py:on_ready:58] >> 티켓 카테고리 채널을 <tickets> 으로 설정했습니다.
+[2024-08-27 02:57:24,910] INFO [tickets.py:tickets_channel_create_command:152] >> 새로운 티켓 채널을 생성했습니다. 대상ID : 371576705690894336, 채널ID : 1277688362890952889

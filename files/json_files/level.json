@@ -1,0 +1,79 @@
+{
+    "channel_id": null,
+    "role": {
+        "5": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "10": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "20": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "30": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "40": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "50": {
+            "role_id": null,
+            "guild_id": null
+        },
+        "51": {
+            "role_id": null,
+            "guild_id": null
+        }
+    },
+    "user_data": {
+        "814150693589090304": {
+            "exp": 0,
+            "level": 1
+        },
+        "1266592605966434386": {
+            "exp": 0,
+            "level": 1
+        },
+        "1266592606490464329": {
+            "exp": 0,
+            "level": 1
+        },
+        "544029372366192662": {
+            "exp": 0,
+            "level": 1
+        },
+        "1054625679070732329": {
+            "exp": 0,
+            "level": 1
+        },
+        "727507907997991014": {
+            "exp": 0,
+            "level": 1
+        },
+        "707207649149845505": {
+            "exp": 0,
+            "level": 1
+        },
+        "508955315534954496": {
+            "exp": 0,
+            "level": 1
+        },
+        "734090920168914944": {
+            "exp": 0,
+            "level": 1
+        },
+        "494082994760318977": {
+            "exp": 0,
+            "level": 1
+        },
+        "872149961050062908": {
+            "exp": 0,
+            "level": 1
+        }
+    }
+}
